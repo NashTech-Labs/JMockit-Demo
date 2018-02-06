@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JMockit-Demo.iml" filepath="$PROJECT_DIR$/JMockit-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trial/user-api2/user-api2.iml" filepath="$PROJECT_DIR$/trial/user-api2/user-api2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trial/user-api2-impl/user-api2-impl.iml" filepath="$PROJECT_DIR$/trial/user-api2-impl/user-api2-impl.iml" />
+    </modules>
+  </component>
+</project>
